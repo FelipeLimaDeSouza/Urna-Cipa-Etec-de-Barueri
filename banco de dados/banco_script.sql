@@ -57,4 +57,3 @@ CREATE TABLE tb_candidato (
   
 );
 
-insert into tb_adm(adm_usuario, adm_senha) values('felipe','210891');
